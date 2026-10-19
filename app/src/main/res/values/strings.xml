@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Reelay</string>
+    <string name="publisher_name">BlackBox THC</string>
+    <string name="accessibility_service_label">Reelay Protection Service</string>
+    <string name="accessibility_service_description">Reelay by BlackBox THC detects and blocks Reels and Shorts to keep you focused, and guards against unauthorized uninstallation.</string>
+    <string name="device_admin_description">BlackBox THC Device Guard prevents unauthorized users from uninstalling Reelay without the master password.</string>
+</resources>
